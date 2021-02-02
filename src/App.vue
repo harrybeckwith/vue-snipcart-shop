@@ -1,10 +1,5 @@
 <template>
   <HelloWorld />
-  <div
-    hidden
-    id="snipcart"
-    data-api-key="NWE5OWVhMjYtYTNmMi00MWE1LWFkMzMtYWMwNTk5ZjJlZDFiNjM3NDc2MDE2MDIzOTIyMjk2"
-  ></div>
 </template>
 
 <script>
